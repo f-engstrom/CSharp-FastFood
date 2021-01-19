@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Fastfood-Terminal", "Csharp-Fastfood-Terminal\Csharp-Fastfood-Terminal.csproj", "{197E8136-0490-44AE-9D28-763909F053D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Fastfood-Test", "Csharp-Fastfood-Test\Csharp-Fastfood-Test.csproj", "{CA9B5E86-E9C5-420A-82B6-CA58E66E4A46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{197E8136-0490-44AE-9D28-763909F053D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{197E8136-0490-44AE-9D28-763909F053D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{197E8136-0490-44AE-9D28-763909F053D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9B5E86-E9C5-420A-82B6-CA58E66E4A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9B5E86-E9C5-420A-82B6-CA58E66E4A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9B5E86-E9C5-420A-82B6-CA58E66E4A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9B5E86-E9C5-420A-82B6-CA58E66E4A46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
